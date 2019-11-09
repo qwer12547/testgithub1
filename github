@@ -36,4 +36,4 @@ git checkout ตัวเลข commit 6 หลัก
 git checkout HEAD~2
 
 ย้อนกลับไปยังตำแหน่ง master ที่เราทำการ commit ไว้ล่าสุด
-git checkout master
+git checkout master f
